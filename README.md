@@ -23,46 +23,77 @@ The NEAStor website is available at [neastor.ibaguette.com](https://neastor.ibag
 ## Discord
 NEAStor, alongside iBaguette, has a Discord server. You can join the server at [https://discord.gg/GfetCXH](https://discord.gg/GfetCXH).
 
-# FAQ ❓
+# FAQ 
 
-### Should I use NEAStor?
-> NEAStor is a great resource for students who are looking for inspiration for their own NEAs, coursework, EPQs, or university essays. It is also a great resource for students who are looking for guidance on how to structure their own work.
+## ❓ How does NEAStor ensure academic integrity? 
 
-### How does NEAStor ensure academic integrity?
-> There is a strict vetting process for all resources that are uploaded to NEAStor. Resources are only made public if they are deemed to be original work.
+### 1. JCQ Rule Adherence
 
-> In addition, we do not accept resources for the current academic year. Sharing material, especially NEAs, that are currently being assessed breaches exam board regulations. 
+**We aim to adhere to the rules set out by the Joint Council for Qualifications (JCQ)** regarding the Non-Examined Assessment (NEA) for GCSEs, A Levels, and other qualifications.
 
-> The earliest resources that we accept are from the previous academic year, and after results day and any disputes have been resolved.
+Below is an excerpt from the JCQ's instructions for conducting non-examined assessments. These are the main rules that concerns NEAStor. They can be found [here](https://www.jcq.org.uk/wp-content/uploads/2023/12/Instructions_NEA_23-24_Dec23revision_Final.pdf), and also [here](https://www.jcq.org.uk/wp-content/uploads/2023/08/IFC-Coursework_Assessments_2023_FINAL.pdf).
 
-> NEAStor shows the end product of the project, not the process. This means that students can use **NEAStor to get inspiration for their own work, but cannot use it to cheat**.
+> "Are candidates allowed to use work for other purposes?"
 
-> Finally, all material on the site can be indexed by search engines and included in search results. Plagiarism in students' work from NEAStor can be easily detected by plagiarism detection software. In addition, should NEAStor be contacted by a school or exam board regarding suspected plagiarism, we will cooperate fully with the investigation.
+*"Before the submission of work for formal assessment, centres must remind candidates to always keep their work secure and not to publicise their work such as posting it on social media."*
 
-### How do I upload my own resources?
-> To upload your own resources, you must first create an account. Once you have created an account, you can upload your own resources by clicking on the "Upload" button on the top right of the screen. You can then select the file that you want to upload, and add a title and description.
+Because of this, we only allow the uploading and subsequent sharing of resources once ["*all possible post-results services have been exhausted*"](https://www.jcq.org.uk/wp-content/uploads/2023/12/Instructions_NEA_23-24_Dec23revision_Final.pdf#:~:text=all%20possible%20post-results%20services%20have%20been%20exhausted). Resources are only made available on NEAStor after the results have been released for the academic year in which the resource was created, after the post-results services deadline has passed, and after the appeals deadline has passed.
 
-### What about privacy?
-> For uploaders and content creators, NEAStor allows you to choose whether you want your name to be displayed on the site, and in the material that you upload. If you want to remain anonymous, please remove your name from the material before uploading it! Alternatively, if you want to be credited for your work, you can choose to display your name; this may be beneficial should people want to look up your work, they can find you on social media or other platforms.
+> We simply do not publish any resources until the final deadline for appeals has passed.
 
-> For users, NEAStor allows you to view resources without creating an account. We do not store any personally identifiable information about you. For analytics, we use Google Analytics and Cloudflare Insights. Additionally, to fund the site, we use Google AdSense. You can find out more about how Google uses your data [here](https://policies.google.com/technologies/partner-sites). See below for more information.
+> NEAStor takes the following timeline into account: for summer exams, the deadline for a review of marking is typically the end of September. Following this, the appeals deadline is 30 days after that. Within 42 days of this, a preliminary outcome letter is sent and finally within 14 days of this, an appeal hearing can be requested. We aim to make resources available on NEAStor after this point; for summer exams, this would be around mid-December. Source: [here](https://www.tes.com/magazine/analysis/secondary/gcse-a-level-appeal-exam-grade).
 
-### Is NEAStor free?
-> Yes, NEAStor is completely free to use. There are no hidden costs or subscriptions.
+If the JCQ rules change, we will aim to adhere to the new rules as soon as possible.
 
-### How does NEAStor make money?
-> NEAStor relies on a small amount of advertising revenue to cover the costs of running the site, hosting resources, and improving the services. To do this, we use [Google AdSense](https://www.google.com/adsense/start/).
+### 2. Plagiarism Considerations
 
-> Please feel free to use an ad blocker if you do not want to see ads on NEAStor. However, please consider whitelisting NEAStor if you find it useful, as this will help us to continue to provide this service for free.
+NEAStor shows the end product of the project, not the process. We believe that this is the best way to ensure academic integrity, as it allows students to learn from the mistakes of others, without being able to copy their work. In other words, students can use **NEAStor to get inspiration for their own work, but cannot use it to cheat**.
 
-### Can I make money from my resources?
-> If you have agreed to the Revenue Sharing Agreement, you may be eligible to receive the revenue generated from Google AdSense on your resources, minus a small fee to cover the costs of running the site.
+All material on the site can be indexed by search engines and included in search results. Plagiarism in students' work from NEAStor can be easily detected by plagiarism detection software. 
 
-> Revenue is calculated based on the number of views that your resources receive in relation to the total number of views on the site. For example, if your resources receive 10% of the total views on the site, you will receive 10% of the revenue generated from Google AdSense on NEAStor.
+### 3. Cooperation 
 
-> Please note that ad revenue is not guaranteed and can vary significantly depending on views, ad impressions & clicks, 
+Should NEAStor be approached by a school or exam board regarding suspected plagiarism, malpractice, or other issues, we will cooperate fully with the investigation to the best of our ability. 
 
-> This is a new feature, and we are still working on automating the process and making it as transparent as possible! You join the Discord server to find out more.
+Please note that we do not store data such as IP addresses, so we may not be able to provide much information. Nonetheless we will do our best to help.
+
+## ❓ Should I use NEAStor?
+NEAStor is a great resource for students who are looking for inspiration for their own NEAs, coursework, EPQs, or university essays. It is also a great resource for students who are looking for guidance on how to structure their own work.
+
+However, NEAStor should not be used as a replacement for your own work. You should not copy the work of others, as this is plagiarism and is against the rules of your school, college, or university.
+
+## ❓ How do I upload my own resources?
+To upload your own resources, you must first create an account. Once you have created an account, you can upload your own resources by clicking on the "Upload" button on the top right of the screen. You can then select the file that you want to upload, and add a title and description.
+
+## ❓ What about privacy?
+For uploaders and content creators, NEAStor allows you to choose whether you want your name to be displayed on the site, and in the material that you upload. If you want to remain anonymous, please remove your name from the material before uploading it! Alternatively, if you want to be credited for your work, you can choose to display your name; this may be beneficial should people want to look up your work, they can find you on social media or other platforms.
+
+For visitors, NEAStor allows you to view resources without creating an account. We do not store any personally identifiable information about you. For analytics, we use Google Analytics and Cloudflare Insights. Additionally, to fund the site, we use Google AdSense. You can find out more about how Google uses your data [here](https://policies.google.com/technologies/partner-sites). See below for more information.
+
+## ❓ Is NEAStor free?
+Yes, NEAStor is completely free to use. There are no hidden costs or subscriptions.
+
+## ❓ How does NEAStor make money?
+NEAStor relies on a small amount of advertising revenue to cover the costs of running the site, hosting resources, and improving the services. To do this, we use [Google AdSense](https://www.google.com/adsense/start/).
+
+Please feel free to use an ad blocker if you do not want to see ads on NEAStor. However, please consider whitelisting NEAStor if you find it useful, as this will help us to continue to provide this service for free.
+
+## ❓ Can I make money from my resources?
+If you have agreed to the Revenue Sharing Agreement, you may be eligible to receive the revenue generated from Google AdSense on your resources, minus a small fee to cover the costs of running the site.
+
+Revenue is calculated based on the number of views that your resources receive in relation to the total number of views on the site. For example, if your resources receive 10% of the total views on the site, you will receive 10% of the revenue generated from Google AdSense on NEAStor.
+
+Please note that ad revenue is not guaranteed and can vary significantly depending on views, ad impressions & clicks, 
+
+This is a new feature, and we are still working on automating the process and making it as transparent as possible! You join the Discord server to find out more.
+
+## ❓ How do I contact NEAStor?
+You can contact NEAStor by joining the Discord server at [https://discord.gg/GfetCXH](https://discord.gg/GfetCXH). You can also contact us by email at [support-neastor@ibaguette.com](mailto:support-neastor@ibaguette.com).
+
+## ❓ Are resources stored securely?
+Yes, all resources are stored securely on Cloudflare R2 Storage, which you can find out more about Cloudflare R2 Storage [here](https://developers.cloudflare.com/r2/). At rest, all resources are encrypted using AES-256 and in transit they are encrypted using HTTPS and TLS 1.3. *Not that it matters, as all resources are publicly available anyway.*
+
+We minimise the amount of accounts with access to the storage bucket (i.e. there are only 2 accounts with access); all access is logged and audited, with accounts requiring 2FA and a decent password to access it.
 
 # Infrastructure 🏗️
 
